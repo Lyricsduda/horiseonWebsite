@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
 }
 
 /* CSS Navgaional section */
@@ -37,10 +38,7 @@ nav h1 {
     color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* Css hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -50,18 +48,7 @@ p {
     background-position: center;
 }
 
-
 /* Main css */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 main {
     width: 75%;
     display: inline-block;
@@ -84,6 +71,16 @@ section img {
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Aside css */
