@@ -9,7 +9,7 @@ body {
     font-size: 16px;
 }
 
-/* CSS Navgaional section */
+/* Header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,7 +38,7 @@ nav h1 {
     color: #d9dcd6;
 }
 
-/* Css hero section */
+/* Hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -48,7 +48,7 @@ nav h1 {
     background-position: center;
 }
 
-/* Main css */
+/* Main section css */
 main {
     width: 75%;
     display: inline-block;
@@ -83,7 +83,7 @@ section h2 {
     margin-left: 25px;
 }
 
-/* Aside css */
+/* Aside section css */
 aside {
     margin-right: 20px;
     padding: 20px;
