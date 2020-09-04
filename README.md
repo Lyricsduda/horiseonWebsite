@@ -1,1 +1,2 @@
 # horiseonWebsite
+I was tasked to update Horiseon's agency website for it to be search engine optimized. I improved the code on there webstie so that it utilized semantic HTML tags, all elements had logical structure, added alt codes to all images posible, and consolidated the css code to be less redundent. 
